@@ -1,0 +1,1 @@
+var nota, nota2, media, primeiroNome, segundoNOme, cidade, endereço;
